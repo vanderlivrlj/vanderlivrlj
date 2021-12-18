@@ -5,6 +5,7 @@ Sobre mim
 🔭 I’m currently working on ... <br>
 Força Aérea Brasileira <br>
 Cabo Vanderli <br>
+Estagiário da Fóton <Br>
 Desenvolvedor WEB
 
 <p align="left">
