@@ -3,8 +3,9 @@
 Sobre mim
 
 🔭 I’m currently working on ...
+Força Aérea Brasileira
 Cabo Vanderli <br>
-Desenvolvedor WEB na Força Aérea Brasileira
+Desenvolvedor WEB
 
 <p align="left">
   <a href="#" alt="Gmail">
