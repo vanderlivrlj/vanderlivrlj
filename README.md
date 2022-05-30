@@ -6,7 +6,8 @@ Sobre mim
 Força Aérea Brasileira <br>
 Cabo Vanderli <br>
 Estagiário da Fóton <Br>
-Desenvolvedor WEB em PHP e Backend em JAVA
+Desenvolvedor WEB <br>
+Skills em Angular, TypeScript, JavaScript, PHP, Bootstrap, HTML5, CSS3.
 
 <p align="left">
   <a href="#" alt="Gmail">
