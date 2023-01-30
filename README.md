@@ -5,7 +5,7 @@ Sobre mim
 🔭 I’m currently working on ... <br>
 Força Aérea Brasileira <br>
 Cabo Vanderli <br>
-Estagiário da Fóton <Br>
+Analista Desenvolvedor na Fóton Inform <Br>
 Desenvolvedor WEB <br>
 Skills em Angular, TypeScript, JavaScript, PHP, Bootstrap, HTML5, CSS3.
 
