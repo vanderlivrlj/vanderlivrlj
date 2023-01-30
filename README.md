@@ -2,11 +2,12 @@
 
 Sobre mim
 
-🔭 I’m currently working on ... <br>
+🔭 Atualmente trabalho como <br>
+Analista Desenvolvedor na Fóton Informática <Br>
+Trabalhei como <b>
+Desenvolvedor WEB <br>
 Força Aérea Brasileira <br>
 Cabo Vanderli <br>
-Analista Desenvolvedor na Fóton Inform <Br>
-Desenvolvedor WEB <br>
 Skills em Angular, TypeScript, JavaScript, PHP, Bootstrap, HTML5, CSS3.
 
 <p align="left">
