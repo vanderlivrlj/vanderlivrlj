@@ -3,8 +3,8 @@
 Sobre mim
 
 🔭 Atualmente trabalho como <br>
-Analista Desenvolvedor na Fóton Informática <Br>
-Trabalhei como <b>
+Analista Desenvolvedor na Fóton Informática <br>
+Trabalhei como <br>
 Desenvolvedor WEB <br>
 Força Aérea Brasileira <br>
 Cabo Vanderli <br>
