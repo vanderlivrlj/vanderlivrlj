@@ -8,7 +8,7 @@ Trabalhei como <br>
 Desenvolvedor WEB <br>
 Força Aérea Brasileira <br>
 Cabo Vanderli <br>
-Skills em Angular, TypeScript, JavaScript, PHP, Bootstrap, HTML5, CSS3.
+Skills em Angular, TypeScript, JavaScript, Java, Spring Boot, PHP, Bootstrap, HTML5, CSS3.
 
 <p align="left">
   <a href="#" alt="Gmail">
